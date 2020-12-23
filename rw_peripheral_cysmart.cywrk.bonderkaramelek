@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="rw_peripheral_cysmart\rw_cysmart\TopDesign">
+<ExpandedNodeIds>
+<v>rw_peripheral_cysmart</v>
+<v>rw_peripheral_cysmart\rw_cysmart</v>
+<v>rw_peripheral_cysmart\rw_cysmart\TopDesign</v>
+<v>rw_peripheral_cysmart\rw_cysmart\rw_cysmart.cydwr</v>
+<v>rw_peripheral_cysmart\rw_cysmart\rw_cysmart.cydwr\Pins</v>
+<v>rw_peripheral_cysmart\rw_cysmart\rw_cysmart.cydwr\Analog</v>
+<v>rw_peripheral_cysmart\rw_cysmart\rw_cysmart.cydwr\DMA</v>
+<v>rw_peripheral_cysmart\rw_cysmart\rw_cysmart.cydwr\Clocks</v>
+<v>rw_peripheral_cysmart\rw_cysmart\rw_cysmart.cydwr\Interrupts</v>
+<v>rw_peripheral_cysmart\rw_cysmart\rw_cysmart.cydwr\System</v>
+<v>rw_peripheral_cysmart\rw_cysmart\rw_cysmart.cydwr\Directives</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\ARM GCC Generic</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\ARM GCC Generic\cy8c6xx7_cm0plus.ld</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\ARM IAR Generic</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\ARM IAR Generic\cy8c6xx7_cm0plus.icf</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\ARM MDK Generic</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\ARM MDK Generic\cy8c6xx7_cm0plus.scat</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\Header Files</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\Source Files</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\Source Files\ARM GCC Generic</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\Source Files\ARM GCC Generic\startup_psoc6_01_cm0plus.S</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\Source Files\ARM IAR Generic</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\Source Files\ARM IAR Generic\startup_psoc6_01_cm0plus.s</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\Source Files\ARM MDK Generic</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\Source Files\ARM MDK Generic\startup_psoc6_01_cm0plus.s</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\Source Files\main_cm0p.c</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\Source Files\system_psoc6_cm0plus.c</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\ARM GCC Generic</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\ARM GCC Generic\cy8c6xx7_cm4_dual.ld</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\ARM IAR Generic</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\ARM IAR Generic\cy8c6xx7_cm4_dual.icf</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\ARM MDK Generic</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\ARM MDK Generic\cy8c6xx7_cm4_dual.scat</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\Header Files</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\Source Files</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\Source Files\ARM GCC Generic</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\Source Files\ARM GCC Generic\startup_psoc6_01_cm4.S</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\Source Files\ARM IAR Generic</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\Source Files\ARM IAR Generic\startup_psoc6_01_cm4.s</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\Source Files\ARM MDK Generic</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\Source Files\ARM MDK Generic\startup_psoc6_01_cm4.s</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\Source Files\main_cm4.c</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\Source Files\system_psoc6_cm4.c</v>
+<v>rw_peripheral_cysmart\rw_cysmart\Shared Files</v>
+<v>rw_peripheral_cysmart\rw_cysmart\Shared Files\cy_ble_config.h</v>
+<v>rw_peripheral_cysmart\rw_cysmart\Shared Files\cyapicallbacks.h</v>
+<v>rw_peripheral_cysmart\rw_cysmart\Shared Files\stdio_user.c</v>
+<v>rw_peripheral_cysmart\rw_cysmart\Shared Files\stdio_user.h</v>
+<v>rw_peripheral_cysmart\rw_cysmart\Shared Files\system_psoc6.h</v>
+<v>rw_peripheral_cysmart\rw_cysmart\Generated_Source</v>
+<v>rw_peripheral_cysmart\rw_cysmart\Generated_Source\PSoC6</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>rw_peripheral_cysmart</v>
+<v>rw_peripheral_cysmart\rw_cysmart</v>
+<v>rw_peripheral_cysmart\rw_cysmart\TopDesign</v>
+<v>rw_peripheral_cysmart\rw_cysmart\rw_cysmart.cydwr</v>
+<v>rw_peripheral_cysmart\rw_cysmart\rw_cysmart.cydwr\Pins</v>
+<v>rw_peripheral_cysmart\rw_cysmart\rw_cysmart.cydwr\Analog</v>
+<v>rw_peripheral_cysmart\rw_cysmart\rw_cysmart.cydwr\DMA</v>
+<v>rw_peripheral_cysmart\rw_cysmart\rw_cysmart.cydwr\Clocks</v>
+<v>rw_peripheral_cysmart\rw_cysmart\rw_cysmart.cydwr\Interrupts</v>
+<v>rw_peripheral_cysmart\rw_cysmart\rw_cysmart.cydwr\System</v>
+<v>rw_peripheral_cysmart\rw_cysmart\rw_cysmart.cydwr\Directives</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\ARM GCC Generic</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\ARM GCC Generic\cy8c6xx7_cm0plus.ld</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\ARM IAR Generic</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\ARM IAR Generic\cy8c6xx7_cm0plus.icf</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\ARM MDK Generic</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\ARM MDK Generic\cy8c6xx7_cm0plus.scat</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\Header Files</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\Source Files</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\Source Files\ARM GCC Generic</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\Source Files\ARM GCC Generic\startup_psoc6_01_cm0plus.S</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\Source Files\ARM IAR Generic</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\Source Files\ARM IAR Generic\startup_psoc6_01_cm0plus.s</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\Source Files\ARM MDK Generic</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\Source Files\ARM MDK Generic\startup_psoc6_01_cm0plus.s</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\Source Files\main_cm0p.c</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM0p (Core 0)\Source Files\system_psoc6_cm0plus.c</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\ARM GCC Generic</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\ARM GCC Generic\cy8c6xx7_cm4_dual.ld</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\ARM IAR Generic</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\ARM IAR Generic\cy8c6xx7_cm4_dual.icf</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\ARM MDK Generic</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\ARM MDK Generic\cy8c6xx7_cm4_dual.scat</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\Header Files</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\Source Files</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\Source Files\ARM GCC Generic</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\Source Files\ARM GCC Generic\startup_psoc6_01_cm4.S</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\Source Files\ARM IAR Generic</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\Source Files\ARM IAR Generic\startup_psoc6_01_cm4.s</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\Source Files\ARM MDK Generic</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\Source Files\ARM MDK Generic\startup_psoc6_01_cm4.s</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\Source Files\main_cm4.c</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CM4 (Core 1)\Source Files\system_psoc6_cm4.c</v>
+<v>rw_peripheral_cysmart\rw_cysmart\Shared Files</v>
+<v>rw_peripheral_cysmart\rw_cysmart\Shared Files\cy_ble_config.h</v>
+<v>rw_peripheral_cysmart\rw_cysmart\Shared Files\cyapicallbacks.h</v>
+<v>rw_peripheral_cysmart\rw_cysmart\Shared Files\stdio_user.c</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>rw_peripheral_cysmart</v>
+<v>rw_peripheral_cysmart\rw_cysmart</v>
+<v>rw_peripheral_cysmart\rw_cysmart\TopDesign</v>
+<v>rw_peripheral_cysmart\rw_cysmart\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>rw_peripheral_cysmart</v>
+<v>rw_peripheral_cysmart\rw_cysmart</v>
+<v>rw_peripheral_cysmart\rw_cysmart\TopDesign</v>
+<v>rw_peripheral_cysmart\rw_cysmart\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>rw_peripheral_cysmart</v>
+<v>rw_peripheral_cysmart\rw_cysmart</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\BLE.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\BLE_config.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\BLE_custom_config.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_aios.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_ancs.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_ans.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_bas.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_bcs.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_bls.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_bms.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_bts.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_cgms.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_cps.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_cscs.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_cts.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_custom.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_dis.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_ess.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_event_handler.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_gap.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_gatt.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_gls.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_hal_int.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_hal_pvt.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_hids.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_hps.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_hrs.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_hts.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_ias.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_ips.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_lls.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_lns.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_ndcs.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_pass.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_plxs.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_rscs.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_rtus.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_scps.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_tps.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_uds.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_wpts.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_wss.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_device.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_common.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_ezi2c.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_i2c.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_spi.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_uart.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\main_cm0p.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\retarget.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\startup_psoc6_01_cm0plus.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\stdio_user.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\system_psoc6_cm0plus.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\rw_cysmart.elf</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\rw_cysmart.hex</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\rw_cysmart.map</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\BLE.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\BLE_config.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\BLE_custom_config.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_aios.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_ancs.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_ans.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_bas.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_bcs.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_bls.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_bms.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_bts.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_cgms.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_cps.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_cscs.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_cts.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_custom.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_dis.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_ess.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_event_handler.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_gap.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_gatt.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_gls.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_hal_int.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_hal_pvt.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_hids.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_hps.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_hrs.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_hts.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_ias.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_ips.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_lls.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_lns.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_ndcs.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_pass.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_plxs.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_rscs.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_rtus.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_scps.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_tps.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_uds.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_wpts.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_wss.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_device.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_common.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_ezi2c.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_i2c.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_spi.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_uart.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\main_cm4.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\retarget.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\startup_psoc6_01_cm4.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\stdio_user.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\system_psoc6_cm4.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\Listing Files\UART_1.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\rw_cysmart.elf</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\rw_cysmart.hex</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM4\ARM_GCC_541\Debug\rw_cysmart.map</v>
+<v>rw_peripheral_cysmart\rw_cysmart\rw_cysmart.gpdsc</v>
+<v>rw_peripheral_cysmart\rw_cysmart\rw_cysmart.rpt</v>
+<v>rw_peripheral_cysmart\rw_cysmart\rw_cysmart_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>rw_peripheral_cysmart</v>
+<v>rw_peripheral_cysmart\rw_cysmart</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\BLE.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\BLE_config.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\BLE_custom_config.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_aios.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_ancs.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_ans.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_bas.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_bcs.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_bls.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_bms.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_bts.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_cgms.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_cps.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_cscs.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_cts.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_custom.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_dis.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_ess.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_event_handler.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_gap.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_gatt.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_gls.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_hal_int.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_hal_pvt.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_hids.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_hps.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_hrs.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_hts.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_ias.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_ips.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_lls.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_lns.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_ndcs.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_pass.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_plxs.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_rscs.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_rtus.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_scps.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_tps.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_uds.lst</v>
+<v>rw_peripheral_cysmart\rw_cysmart\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_wpts.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>rw_peripheral_cysmart</v>
+<v>rw_peripheral_cysmart\rw_cysmart</v>
+<v>rw_peripheral_cysmart\rw_cysmart\PSoC 6 Architecture TRM</v>
+<v>rw_peripheral_cysmart\rw_cysmart\PSoC 63 Family Datasheet</v>
+<v>rw_peripheral_cysmart\rw_cysmart\Peripheral Driver Library</v>
+<v>rw_peripheral_cysmart\rw_cysmart\System Reference Guides</v>
+<v>rw_peripheral_cysmart\rw_cysmart\BLE_PDL_v2_20.pdf</v>
+<v>rw_peripheral_cysmart\rw_cysmart\GPIO_PDL_v1_0</v>
+<v>rw_peripheral_cysmart\rw_cysmart\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
+<v>rw_peripheral_cysmart\rw_cysmart\SCB_UART_PDL_v2_0.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>rw_peripheral_cysmart</v>
+<v>rw_peripheral_cysmart\rw_cysmart</v>
+<v>rw_peripheral_cysmart\rw_cysmart\PSoC 6 Architecture TRM</v>
+<v>rw_peripheral_cysmart\rw_cysmart\PSoC 63 Family Datasheet</v>
+<v>rw_peripheral_cysmart\rw_cysmart\Peripheral Driver Library</v>
+<v>rw_peripheral_cysmart\rw_cysmart\System Reference Guides</v>
+<v>rw_peripheral_cysmart\rw_cysmart\BLE_PDL_v2_20.pdf</v>
+<v>rw_peripheral_cysmart\rw_cysmart\GPIO_PDL_v1_0</v>
+<v>rw_peripheral_cysmart\rw_cysmart\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
+<v>rw_peripheral_cysmart\rw_cysmart\SCB_UART_PDL_v2_0.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\rw_cysmart.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\rw_cysmart.cydsn\rw_cysmart.cydwr" />
+<name v=".\rw_cysmart.cydsn\stdio_user.h" />
+<name v=".\rw_cysmart.cydsn\main_cm0p.c" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1324, 555" SelectedTabbedMdiWindow="46212605-fe57-4805-9127-aa5532751a64"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="8c1db4bd-06a5-4bb9-a8c3-301df50b783b" /><DocumentWindow Key="C:\Users\bonderkaramelek\Desktop\Cypress WS\broadcast\rw_peripheral_cysmart\rw_cysmart.cydsn\TopDesign\TopDesign.cysch" Guid="46212605-fe57-4805-9127-aa5532751a64" /><DocumentWindow Key="C:\Users\bonderkaramelek\Desktop\Cypress WS\broadcast\rw_peripheral_cysmart\rw_cysmart.cydsn\rw_cysmart.cydwr" Guid="fd2ae1d2-7ab1-40c3-b4d3-f2899b3a6d56" /><DocumentWindow Key="C:\Users\bonderkaramelek\Desktop\Cypress WS\broadcast\rw_peripheral_cysmart\rw_cysmart.cydsn\stdio_user.h" Guid="a4e7228f-b001-47db-9d91-69f7770bd31b" /><DocumentWindow Key="C:\Users\bonderkaramelek\Desktop\Cypress WS\broadcast\rw_peripheral_cysmart\rw_cysmart.cydsn\main_cm0p.c" Guid="df3ffa20-8b8f-4855-b221-db727c37b8c6" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
